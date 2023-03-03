@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Anurag Patil</h1> -->
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="portfolio.png"/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, Hi 👋, I'm Anurag Patil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Anurag Patil</h1>
 
 <h3 align="center">A passionate frontend developer</h3>
 
