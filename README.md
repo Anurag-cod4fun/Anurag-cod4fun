@@ -1,6 +1,6 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
-<!-- <h1 align="center">Hi 👋, I'm Dyanesh Dhawale</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Anurag Patil</h1> -->
 <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="portfolio.png"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Dyanesh Dhawale</h1>
@@ -11,21 +11,21 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React,Firebase and Frontend**
+- 💬 Ask me about **React,Firebase, Machine Learning**
 
-- 📫 How to reach me **dyanixdhawale@gmail.com**
+- 📫 How to reach me **patilanurag661@gmail.com**
 
-- ⚡ Fun fact **I think iam creative and eager to learn faster**
+- ⚡ Fun fact **#include<dedication>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dyanesh dhawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyanesh dhawale" height="30" width="40" /></a>
-<a href="https://kaggle.com/dyanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dyanix" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dyanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dyanix" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-patil-b71b2a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyanesh dhawale" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anuragsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dyanix" height="30" width="40" /></a>
+<a href="https://leetcode.com/Anurag_Patil2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dyanix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -81,16 +81,6 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en&theme=tokyonight" alt="dyanix" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyanix&&theme=tokyonight" alt="dyanix" />
-</p>
-
-## Connect with me:
-<p align="left">
-
-
-<a href = "https://www.instagram.com/mr_dyanix/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/dyanix dhawale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
