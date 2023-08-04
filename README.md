@@ -42,6 +42,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Anurag-cod4fun/Medify" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/Anurag-cod4fun/YouTube_Comment_Analyzer" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/Anurag-cod4fun/Voting-System" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/Anurag-cod4fun/Medify" target="_blank"> <img alt="medify" src="https://www.cancerresearchuk.org/sites/default/files/styles/cruk_landing_page_promo_thumb_resp_breakpoint_one/public/challenge-icon-deep-learning.png?itok=GaNWyTaP" height="68" align="left"> </a>
+<a href="https://github.com/Anurag-cod4fun/YouTube_Comment_Analyzer" target="_blank"> <img alt="yta" src="https://www.commentanalyzer.com/searchyt.png"  height="68" align="left"> </a>
+<a href="https://github.com/Anurag-cod4fun/Voting-System" target="_blank"> <img alt="votingsys" src="https://img.freepik.com/free-vector/electronic-voting-abstract-concept-illustration-electronic-election-online-voting-e-voting-system-government-digital-technology-internet-ballot-campaign-website_335657-437.jpg?w=2000" height="68" align="left"> </a>
