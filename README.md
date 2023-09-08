@@ -51,6 +51,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Cod4fun&hide_progress=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Cod4fun&hide_progress=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Cod4fun&hide_progress=true&theme=radical)" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Cod4fun&hide_progress=true&theme=radical)" />
 </p>
