@@ -51,7 +51,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <p align="center">
 
-<p>&nbsp;
+
   ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&include_all_commits=true)
 
-</p>
+
