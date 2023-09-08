@@ -52,6 +52,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <p align="center">
 
 
-  ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anurag-cod4fun&show_icons=true&theme=dark&include_all_commits=true)
+  ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anurag-cod4fun&show_icons=true&theme=dark)
 
 
