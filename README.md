@@ -18,7 +18,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anurag-patil-b71b2a205/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YUotfa5_hpXrd0FPcsxSc0WRc6Arfhkf/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. 
 
 <br>
